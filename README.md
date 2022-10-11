@@ -2,12 +2,12 @@
 
 In this project, I implemented several different sorting algorithms.
 
-## Helper Files :raised_hands:
+## Helper Files
 
 * [print_array.c](./print_array.c): C function that prints an array of integers. 
 * [print_list.c](./print_list.c): C function that prints a `listint_t` doubly-linked list. 
 
-## Header Files :file_folder:
+## Header Files
 
 * [sort.h](./sort.h): Header file containing definitions and prototypes for all types and functions written for the project.
 
